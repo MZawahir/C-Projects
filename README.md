@@ -1,2 +1,2 @@
 # C-Projects
-These Are My C# Projects I Made For Learning Purpose
+These Are My C-Language Project I Made ForPractice
